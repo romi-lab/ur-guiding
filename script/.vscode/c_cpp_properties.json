@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/rick/Documents/a_system/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/rick/Documents/a_system/src/CAD2pointcloud/CAD2pointcloud/include/**",
+                "/home/rick/Documents/a_system/src/Thirdparty/ar_track_alvar/ar_track_alvar/include/**",
+                "/home/rick/Documents/a_system/src/robot_sensor_calibration/calibration_computing/include/**",
+                "/home/rick/Documents/a_system/src/robot_sensor_calibration/calibration_validation/include/**",
+                "/home/rick/Documents/a_system/src/Thirdparty/ur_driver/controller_stopper/include/**",
+                "/home/rick/Documents/a_system/src/Thirdparty/realsense-ros_2019/ddynamic_reconfigure/include/**",
+                "/home/rick/Documents/a_system/src/Thirdparty/KinectV2-ros/kinect2_bridge/include/**",
+                "/home/rick/Documents/a_system/src/Thirdparty/KinectV2-ros/kinect2_calibration/include/**",
+                "/home/rick/Documents/a_system/src/Thirdparty/KinectV2-ros/kinect2_registration/include/**",
+                "/home/rick/Documents/a_system/src/Thirdparty/realsense-ros_2019/realsense2_camera/include/**",
+                "/home/rick/Documents/a_system/src/model_reconstruction/reconstruction/include/**",
+                "/home/rick/Documents/a_system/src/motion_planning1executing/trajectory_planning/include/**",
+                "/home/rick/Documents/a_system/src/Thirdparty/ur_driver/ur_calibration/include/**",
+                "/home/rick/Documents/a_system/src/Thirdparty/ur_driver/ur_controllers/include/**",
+                "/home/rick/Documents/a_system/src/Thirdparty/ur_driver/ur_modern_driver/include/**",
+                "/home/rick/Documents/a_system/src/Thirdparty/ur_driver/ur_robot_driver/include/**",
+                "/home/rick/Documents/a_system/src/model_reconstruction/vg_transform/include/**",
+                "/home/rick/Documents/ros-projects/tool_and_api/src/vive_ros/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
