@@ -5,7 +5,7 @@ To intuitively control UR, we developed a device with AR markers and an IMU unit
 The device output absolute pose with respect to **base_link**,
 where the position information is givne by AR marker and the orientation is defined by the IMU sensor.
 The transformation from camera to base is computed on a real-time basis.
-The setup and persudo algorithm is illustrated below.
+The setup is illustrated below.
 
 <img src="https://github.com/romi-lab/ur-guiding/blob/main/demo/device.png" width="400" alt=""> <img src="https://github.com/romi-lab/ur-guiding/blob/main/demo/setup.png" width="400" alt="">
 
@@ -20,7 +20,7 @@ And this can be stored, or it can be used for a real-time follwing:
 I further developed it for 3d drawing and robotic welding path planning (check below subsections for detail). 
 The whole program is developed in ROS kinetic, most scripts are in python.
 
-## How it is made?
+## How is it made?
 ### AR marker
 We obtained the position of AR marker using the package [ar_track_alvar](http://wiki.ros.org/ar_track_alvar).
 In our lab, there are two cameras, one kinect mounted at the top and another realsense mounted at the end-effector of robot manipulator.
@@ -73,7 +73,9 @@ Three shapes are showed for illustration.
 
 #### Plane
 <img src="https://github.com/romi-lab/ur-guiding/blob/main/demo/line.gif" width="800" alt="">  
+
 #### Tube
 <img src="https://github.com/romi-lab/ur-guiding/blob/main/demo/tube.gif" width="800" alt="">  
+
 #### Y-shape
 <img src="https://github.com/romi-lab/ur-guiding/blob/main/demo/yshape.gif" width="800" alt="">  
