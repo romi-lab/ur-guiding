@@ -6,7 +6,7 @@ The device output absolute pose with respect to **base_link**,
 where the position information is givne by AR marker and the orientation is defined by the IMU sensor.
 The transformation from camera to base is computed on a real-time basis.
 The setup and persudo algorithm is illustrated below.
-<img src="https://github.com/romi-lab/ur-guiding/blob/main/demo/device.png" width="450" alt=""> <img src="https://github.com/romi-lab/ur-guiding/blob/main/demo/setup.png" width="450" alt="">
+<img src="https://github.com/romi-lab/ur-guiding/blob/main/demo/device.png" width="400" alt=""> <img src="https://github.com/romi-lab/ur-guiding/blob/main/demo/setup.png" width="400" alt="">
 
 The trjecotry can be recorded with 6 DOF:
 <img src="https://github.com/romi-lab/ur-guiding/blob/main/demo/traj6.gif" width="800" alt="">
