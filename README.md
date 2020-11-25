@@ -79,3 +79,6 @@ Three shapes are showed for illustration.
 
 #### Y-shape
 <img src="https://github.com/romi-lab/ur-guiding/blob/main/demo/yshape.gif" width="800" alt="">  
+
+## Remarks
+Related videos can also be found on https://www.youtube.com/playlist?list=PL5FErTrn43DAEZoOoIT-MDyYhVbtMYqoF
