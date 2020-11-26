@@ -1,7 +1,7 @@
 # UR Guiding
 
 ## Overview - A handy device for controlling Universal Robot
-To intuitively control UR, we developed a device with AR markers and an IMU unit.
+To intuitively control UR, I developed a device with AR markers and an IMU unit.
 The device output absolute pose with respect to **base_link**,
 where the position information is givne by AR marker and the orientation is defined by the IMU sensor.
 The transformation from camera to base is computed on a real-time basis.
