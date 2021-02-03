@@ -9,6 +9,9 @@ The setup is illustrated below.
 
 <img src="https://github.com/romi-lab/ur-guiding/blob/main/demo/device.png" width="400" alt=""> <img src="https://github.com/romi-lab/ur-guiding/blob/main/demo/setup.png" width="400" alt="">
 
+The model is 3d printed and the stl can be found [here](https://github.com/romi-lab/ur-guiding/tree/main/pen_model_stl).
+You can model it by checking [CAD file](https://grabcad.com/library/ur-motion-guider-1).
+
 The trjecotry can be recorded with 6 DOF:
 
 <img src="https://github.com/romi-lab/ur-guiding/blob/main/demo/traj6.gif" width="800" alt="">
